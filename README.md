@@ -13,9 +13,9 @@ Estou estudando Python, FastAPI, gerenciamento com Poetry e processos de ETL, de
 ## 🌐 Onde me encontrar
 
 <div align="left">
-  <a href="https://github.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-RD6521?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://github.com/PabloVinicius-Dev" target="_blank"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  <a href="mailto:pabllo6503@icloud.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-RD6521?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/pablo-vinicius-68857b2b8" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </div>
 
 ---
@@ -23,22 +23,14 @@ Estou estudando Python, FastAPI, gerenciamento com Poetry e processos de ETL, de
 ## 🛠 Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
 
 ---
 

@@ -1,31 +1,52 @@
-# 👋 Olá, eu sou Pablo Vinicius  
+# Olá 👋, eu sou Pablo Vinicius
 
-Sou Pablo, tenho 19 anos e estou no início da minha jornada na área da programação. Atualmente tenho pouca experiência profissional e poucos projetos publicados, mas estou focado em evoluir constantemente. Sou dedicado, curioso e gosto de aprender colocando a mão no código.
+🇧🇷 Brasil
 
----
+🚀 **Estudante de Tecnologia | Programação, Desenvolvimento Web e Automação**
 
-## 📫 Como me contatar:
+Atualmente estou focado em aprender desenvolvimento de software, backend e sistemas digitais através de projetos práticos e estudos acadêmicos.
 
-- 📧 Email: pabllo6503@icloud.com  
-- 💼 LinkedIn: www.linkedin.com/in/pablo-vinicius-68857b2b8  
-
----
-
-## 😄 Pronomes:
-
-Ele/Dele  
+Estou estudando Python, FastAPI, gerenciamento com Poetry e processos de ETL, desenvolvendo sistemas para a AXION e automatizando fluxos de trabalho.
 
 ---
 
-## ⚡ Curiosidades:
+## 🌐 Onde me encontrar
 
-- Já participei de competição mundial na área de tecnologia representando o Brasil.  
-- Fui ex-competidor da seleção brasileira da Microsoft.  
-- Sou apaixonado por tecnologia e desafios.  
-- Também atuo com fotografia e criação de conteúdo.  
-- Estou sempre buscando evoluir 1% todos os dias.  
+<div align="left">
+  <a href="https://github.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-RD6521?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+</div>
 
-<!---
-Pablo-back/Pablo-back is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+---
+
+## 🧑‍💻 Sobre Mim
+
+Tenho 19 anos e sou um estudante de tecnologia baseado em Recife, Pernambuco. Além da graduação, sou o fundador da **AXION**, onde foco no desenvolvimento de sistemas com design moderno e minimalista.
+
+*   **Educação**: Acadêmico de tecnologia com foco em sistemas de informação e Business Intelligence.
+*   **Startup**: Lidero a AXION no ecossistema do Porto Digital, transformando ideias em serviços digitais.
+*   **Habilidades**: Especialista em ETL e tratamento de dados com Power Query.

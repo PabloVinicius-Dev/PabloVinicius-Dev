@@ -4,37 +4,6 @@ Sou Pablo, tenho 19 anos e estou no início da minha jornada na área da program
 
 ---
 
-## 👀 Estou interessado em:
-
-- Front-end  
-- Back-end  
-- Cybersecurity (Cibersegurança)  
-- Banco de Dados  
-- Desenvolvimento Full Stack  
-- Cloud Computing  
-- Engenharia de Software  
-- DevOps  
-- Inteligência Artificial  
-
----
-
-## 🌱 Atualmente estou aprendendo:
-
-Atualmente estou cursando **Graduação em Ciência da Computação**, onde estou aprendendo:
-
-- Métodos Ágeis  
-- Estrutura de Dados (nível básico)  
-- Lógica de Programação  
-- Fundamentos de Banco de Dados  
-
----
-
-## 💞️ Estou procurando oportunidades de colaboração em:
-
-Projetos de desenvolvimento web, participação em projetos de sistemas reais, iniciativas open source e qualquer oportunidade que me permita ganhar experiência prática e evoluir como desenvolvedor.
-
----
-
 ## 📫 Como me contatar:
 
 - 📧 Email: pabllo6503@icloud.com  
